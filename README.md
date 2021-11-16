@@ -1,4 +1,4 @@
-# Steps-for-creating-React-App-from-scratch
+# Steps for creating React App from scratch
 
 1. Setup React: npx create-react-app 
 2. Install Dependencies: npm i axios react-router-dom@5.0.0 react-transition-group
